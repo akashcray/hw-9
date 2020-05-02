@@ -1,0 +1,151 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+}
+
+body{
+	background-color: #fafbff;
+}
+
+/* ============== Header area start ==============*/
+
+.heading{
+	padding-bottom: 5px; 
+	background-color: #1c316b;
+	border-bottom: 2px solid red;
+}
+
+.heading h2{
+	color: white;
+	text-align: center;
+}
+
+.heading P{
+	color: white;
+	text-align: center;
+}
+
+/* ============== Header area End ===============*/
+
+
+
+.text1{
+
+	margin: .50rem 1rem;
+	padding: 0.75rem 1.25rem;
+	background-color: #fff;
+	border: 1px solid rgba(0, 0, 0, 0.125)
+}
+
+.text1 strong{
+	color: #912f41;
+}
+
+.text1 span{
+	color: #1c316b;
+}
+
+/* Block level element */
+
+.text2{
+
+	margin: .50rem 1rem;
+	padding: 0.75rem 1.25rem;
+	background-color: rgba(255, 244, 92, 0.3);
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	font-size: 14.5px;
+}
+
+.hdr h3{
+	display: inline;
+	padding: 3px;
+	color: white;
+	background-color: #912f41;
+}
+
+.box1{
+	background-color: green;
+}
+.box2{
+	background-color: red;
+}
+
+/* End Block Level element */
+
+/* Start inline element */
+
+.hdrr{
+	margin-top: 5px;
+}
+
+.hdrr h3{
+	display: inline;
+	padding: 3px;
+	color: white;
+	background-color: #912f41;
+}
+
+.dp h3{
+	display: table;
+	padding: 3px;
+	text-align: center;
+	color: white;
+	background-color: green;
+}
+
+/* End inline element */
+
+
+footer{
+	margin-top: 10px;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+
+
+
+
+/* Extra css here */
+
+.exmpl{
+
+	display: inline-block;
+	margin: 10px 0px 10px 16px;
+	padding: 3px; 
+	color: white;
+	background-color: rgba(230, 2, 2, .5);
+}
+
+.arrow{
+	color: black;
+	padding-top: 5px;
+	font-size: 15px;
+}
+
+.list{
+	margin-left: 100px;
+	width: 90%;
+	height: 315px;
+}
+
+
+.b1{
+	width: 50%;
+	float: left;
+}
+
+.b2{
+	width: 50%;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
